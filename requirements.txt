@@ -1,0 +1,10 @@
+ultralytics
+flask
+flask-cors
+opencv-python-headless
+gunicorn
+psycopg2-binary
+Flask-SQLAlchemy
+python-dotenv
+google-generativeai>=0.5.4
+pillow
